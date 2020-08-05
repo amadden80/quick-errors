@@ -1,0 +1,22 @@
+{
+  "name": "quick-errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadden80/quick-errors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amadden80/quick-errors/issues"
+  },
+  "homepage": "https://github.com/amadden80/quick-errors#readme",
+  "dependencies": {
+    "backtrace-node": "^1.0.8"
+  }
+}
